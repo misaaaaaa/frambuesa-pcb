@@ -27,9 +27,18 @@ fp-info-cache
 ## Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
+## Exported BOM files
+*.xml
+*.csv
+## excepto los bom.csv escritos a mano para generar bibliotecas de KiCad
+## con partes-jlcpcb/generar_biblioteca.py (no son exportados por KiCad)
+!bom.csv
+!**/bom.csv
 ## Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
 ## Local git-based history (KiCad 9.0+)
 .history
 ## Local project settings
 *.kicad_prl
+## Cache de easyeda2kicad (partes-jlcpcb/generar_biblioteca.py --use-cache)
+.easyeda_cache/

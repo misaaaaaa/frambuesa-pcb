@@ -1,0 +1,12 @@
+Category,Value,Footprint,JLCPCB Part #,Description,Qty (2026-09-17)
+Embedded Processors & Controllers,RP2040,LQFN-56(7x7),C2040,12bit 133MHz 30 LQFN-56(7x7) Microcontrollers (MCU/MPU/SOC) ROHS,30
+Memory,W25Q128JVSIQ,SOIC-8-208mil,C97521,-40℃~+85℃ 100000 cycles 128Mbit 133MHz 1uA 2.7V~3.6V 20 Years SPI SOIC-8-208mil NOR FLASH ROHS,10
+Connectors,TYPE-C-31-M-12,SMD,C165948,"-30℃~+80℃ 10000 cycles 16P 20V 5A 7.35mm Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS",150
+Switches,PTS636SK25SMTRLFS,"SMD,6x3.5mm",C2689642,"-40℃~+90℃ 12V 2.5N 3.7mm 50mA 6.1mm Gull Wing IP40 SPST-NO Surface Mount,Vertical SMD,6x3.5mm Tactile Switches ROHS",150
+Resistors,1kΩ,0805,C2907232,-55℃~+155℃ 125mW 150V 1kΩ Thick Film Resistor ±1% ±100ppm/℃ 0805 Chip Resistor - Surface Mount ROHS,9925
+Resistors,10kΩ,0805,C17414,-55℃~+155℃ 10kΩ 125mW 150V Thick Film Resistor ±1% ±100ppm/℃ 0805 Chip Resistor - Surface Mount ROHS,4905
+Resistors,5.1kΩ,0402,C25905,-55℃~+155℃ 5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,10
+Capacitors,100nF,0805,C49678,100nF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,880
+Capacitors,1uF,0805,C77083,1uF 50V X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,206
+Capacitors,10uF,"SMD,D4xL5.4mm",C3357,"-55℃~+105℃ 10uF 16V 2000hrs@105℃ 4mm 5.4mm ±20% SMD,D4xL5.4mm Aluminum Electrolytic Capacitors - SMD ROHS",1962
+Capacitors,100uF,"SMD,D6.3xL7.7mm",C46550415,"-55℃~+105℃ 100uF 2000hrs@105℃ 50V 6.3mm 140mA@120Hz 7.7mm ±20% SMD,D6.3xL7.7mm Aluminum Electrolytic Capacitors - SMD ROHS",300
